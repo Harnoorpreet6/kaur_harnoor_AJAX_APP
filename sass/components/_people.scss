@@ -1,0 +1,34 @@
+#loader {
+	max-width: 100px;
+}
+
+#loader.hidden {
+	display: none;
+}
+
+h2 {
+	margin-bottom: 40px;
+}
+
+#people-con ul {
+	padding: 0;
+	margin: 0;
+}
+
+#people-con ul li {
+	padding: 20px;
+	list-style-type: none;
+}
+
+#people-con ul li:nth-child(odd) {
+	background-color: #efefef
+}
+
+#people-con ul li h2 {
+	margin: 0;
+}
+
+#people-con ul li img {
+	float: left;
+	margin-right: 20px;
+}
