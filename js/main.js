@@ -60,7 +60,7 @@
   
      
   
-      fetch("https://swiftpixel.com/earbud/api/matrerials")
+      fetch("https://swiftpixel.com/earbud/api/materials")
       .then(response => response.json())
       .then(materialListData => {
   
